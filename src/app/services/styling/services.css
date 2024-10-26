@@ -1,3 +1,12 @@
+
+
+
+
+.margin__ijce9hf{
+    width: 100%;
+    padding-bottom: 50px;
+}
+
 .__ourservices_49jf9{
     display: flex;
     justify-content: center;
@@ -7,32 +16,115 @@
     align-items: center;
 }
 
+.mainheader_aboutwhatweprovide{
+    margin-top: 5%;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.mainheader_aboutwhatweprovide h1{
+    font-size: 25px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.mainheader_aboutwhatweprovide p{
+    background-color: aliceblue;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+}
 
 .__cardslists_denf9{
     display: flex;
+    gap: 60px;
 }
 
 .__Savings_cost_avoidance, .Code_of_Conduct, .ESG_measurement{
     width: 40%;
     height: fit-content;
+    box-shadow: 2px 2px 20px 2px rgb(234, 234, 234);
+    padding:  0 0 15px 0;
+    border-radius: 10px;
+    padding-top: 10px;
 }
 
-.__Savings_cost_avoidance img, .Code_of_Conduct img, .ESG_measurement img{
-    width: 400px;
+.__Savings_cost_avoidance h1, .Code_of_Conduct h1, .ESG_measurement h1{
+    font-size: 18px;
+    font-weight: 600;
+}
+.__Savings_cost_avoidance h1{
+    color: #DC840A;
+}
+.Code_of_Conduct h1{
+    color: #1A364C;
+}
+.ESG_measurement h1{
+    color: #009760;
+}
+
+.ratings_d9ej{
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
 }
 
 
-.__Savings_cost_avoidance, .Code_of_Conduct, .ESG_measurement{
+.__3service_img{
+    width: 350px;
+}
+
+
+.__Services_details__fef9_img{
     position: relative;
 }
 
 .pricing_d9jdf {
-    background-color: black;
-    color: white;
+    background-color: rgb(254, 254, 254);
+    color: rgb(0, 0, 0);
     width: fit-content;
     padding: 5px 10px;
     border-radius: 500px;
     position: absolute; 
     bottom: 10px; 
+    font-weight: 600;
     right: 10px; 
+}
+
+.__Services_details__fef9{
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0 0 0;
+}
+
+.ratings_div_e3j{
+    margin-top: 10px;
+}
+
+
+.__addtocart__{
+    padding: 0 15px;
+    margin-top: 40px;
+}
+.__addtocart__ p{
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+#componat__Savings p{
+    background-color: #DC840A;
+}
+#componat__Conduct p{
+    background-color: #1A364C;
+}
+#componat__measurement p{
+    background-color: #009760;
 }
