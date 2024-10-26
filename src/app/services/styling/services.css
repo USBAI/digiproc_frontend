@@ -44,7 +44,7 @@
 .__Savings_cost_avoidance, .Code_of_Conduct, .ESG_measurement{
     width: 40%;
     height: fit-content;
-    box-shadow: 2px 2px 20px 2px rgb(234, 234, 234);
+    box-shadow: 2px 2px 20px 2px rgb(244, 244, 244);
     padding:  0 0 15px 0;
     border-radius: 10px;
     padding-top: 10px;
@@ -115,6 +115,7 @@
     padding: 10px 0;
     border-radius: 10px;
     color: white;
+    cursor: pointer;
 }
 
 

@@ -46,6 +46,8 @@ export default function RootLayout({
       >
         {children}
       </body>
+
+      <link rel="shortcut icon" href="https://cdn.prod.website-files.com/631606e83c13edc22cfb6d57/633d5a860fc68535cc0a7569_favicon.png" type="image/x-icon" />
     </html>
   );
 }
