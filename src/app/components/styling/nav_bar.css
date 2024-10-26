@@ -1,0 +1,85 @@
+.navbar_div_940{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 15px 0;
+    position: fixed;
+}
+
+.navholder__inner{
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0);
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+    box-shadow: 2px 2px 20px 2px rgb(235, 239, 255);
+}
+
+.__logo__949_digiproc{
+    width: fit-content;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.__logo__949_digiproc img{
+    width: 100px;
+}
+
+.__quicklinks__032{
+    display: flex;
+    gap: 50px;
+}
+
+.__quicklinks__032_div1 div, .__quicklinks__032_div1 div a{
+    font-size: 17px;
+    color: black;
+}
+.__quicklinks__032_div1 div, .__quicklinks__032_div1 div a:hover{
+    font-size: 17px;
+    color: rgb(21, 0, 255);
+    transition-duration: 0.5s;
+}
+
+.__quicklinks__032_div1 div, .__quicklinks__032_div2 div{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: fit-content;
+}
+
+.__quicklinks__032_div1{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.__quicklinks__032_div2 div a{
+    background-color: black;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+}
+
+.__quicklinks__032_div2 div a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 2px 20px 2px rgb(230, 227, 255);
+    transition-duration: 0.2s;
+}
+

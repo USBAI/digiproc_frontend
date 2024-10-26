@@ -1,0 +1,38 @@
+.__ourservices_49jf9{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    height: 100svh;
+    width: 100%;
+    align-items: center;
+}
+
+
+.__cardslists_denf9{
+    display: flex;
+}
+
+.__Savings_cost_avoidance, .Code_of_Conduct, .ESG_measurement{
+    width: 40%;
+    height: fit-content;
+}
+
+.__Savings_cost_avoidance img, .Code_of_Conduct img, .ESG_measurement img{
+    width: 400px;
+}
+
+
+.__Savings_cost_avoidance, .Code_of_Conduct, .ESG_measurement{
+    position: relative;
+}
+
+.pricing_d9jdf {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 500px;
+    position: absolute; 
+    bottom: 10px; 
+    right: 10px; 
+}
